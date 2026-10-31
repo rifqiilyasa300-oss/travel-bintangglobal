@@ -20,7 +20,7 @@
 ---
 
 ## 📸 Tampilan Antarmuka (Screenshots)
-> *(Tambah screenshot tampilan aplikasi di sini)*
+![Tampilan Web Travel](screencapture-127-0-0-1-8000-2026-10-31-16_01_29.png)
 
 ---
 
